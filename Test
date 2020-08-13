@@ -1,4 +1,10 @@
 #EXTM3U
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="Bangladesh",BTV
-https://linkforu.github.io/Welcome-To-IPTV/.m3u8
+http://103.229.47.52/live/feed1001/index.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Bangladesh",BTV World
+https://cutt.ly/Sd2bV5K
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangladesh",Sangsad TV
+https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
