@@ -1,10 +1,27 @@
 # EXTM3U
-
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/5Ekd94G.png" group-title = "BDIX01", CORONA LIVE [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCWF.m3u8
-
-#EXTINF: -1 tvg-logo = "http://gazitv.com/wp-content/uploads/2016/08/Logo.png" group-title = "BDIX01", Gazi Tv
-PWdUZHowbUx6dG1iMWgyWXZZSGRmbG1laGQyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzB.m3u8
-
- #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title = "BDIX01", Maasranga
- PT1BTzFOVGJ1TTNhdVZIYWo5U1luNVdZeU5YWWgxMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5DKH
+http://otv.ftpbd.net/streams/100/index.m3u8
+http://otv.ftpbd.net/streams/101/index.m3u8
+http://otv.ftpbd.net/streams/102/index.m3u8
+http://otv.ftpbd.net/streams/103/index.m3u8
+http://otv.ftpbd.net/streams/104/index.m3u8
+http://otv.ftpbd.net/streams/105/index.m3u8
+http://otv.ftpbd.net/streams/106/index.m3u8
+http://otv.ftpbd.net/streams/107/index.m3u8
+http://otv.ftpbd.net/streams/108/index.m3u8
+http://otv.ftpbd.net/streams/109/index.m3u8
+http://otv.ftpbd.net/streams/110/index.m3u8
+http://otv.ftpbd.net/streams/111/index.m3u8
+http://otv.ftpbd.net/streams/112/index.m3u8
+http://otv.ftpbd.net/streams/113/index.m3u8
+http://otv.ftpbd.net/streams/114/index.m3u8
+http://otv.ftpbd.net/streams/115/index.m3u8
+http://otv.ftpbd.net/streams/116/index.m3u8
+http://otv.ftpbd.net/streams/117/index.m3u8
+http://otv.ftpbd.net/streams/118/index.m3u8
+http://otv.ftpbd.net/streams/119/index.m3u8
+http://otv.ftpbd.net/streams/120/index.m3u8
+http://otv.ftpbd.net/streams/121/index.m3u8
+http://otv.ftpbd.net/streams/122/index.m3u8
+http://otv.ftpbd.net/streams/123/index.m3u8
+http://otv.ftpbd.net/streams/124/index.m3u8
+http://otv.ftpbd.net/streams/125/index.m3u8
